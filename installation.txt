@@ -1,0 +1,27 @@
+1.Clone it. git clone https://github.hub/mrkumar0/comment_section
+
+
+2.Create a database
+
+3.change host name
+
+4.username
+
+5.passowrd
+
+6.database name
+
+7.Create two table 
+	a.parentes
+	b.childeren
+
+
+8.each table have 5 column
+	a.id(primary key)
+	b.user(admin)
+	c.text
+	d.date(datetime)
+	e.code(varchar) for children use pra_code(varchar)
+
+
+9.change globel.js page according to your page or style 
